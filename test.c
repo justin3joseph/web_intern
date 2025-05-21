@@ -1,1 +1,1 @@
-This is only for test merge conflict!!!
+This is only for test merge conflict!!!"<<<< feature b added to this file >>>>" 
